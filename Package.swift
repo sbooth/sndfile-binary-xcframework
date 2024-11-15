@@ -23,7 +23,7 @@ let package = Package(
 		// Targets can depend on other targets in this package and products from dependencies.
 		.binaryTarget(
 			name: "sndfile",
-			url: "https://github.com/sbooth/sndfile-binary-xcframework/releases/download/0.1.1/sndfile.xcframework.zip",
-			checksum: "201051b08a8af2d0ba4cd7ebc7e643733d3977205c2e3b9176ec993fe2f33de7"),
+			url: "https://github.com/sbooth/sndfile-binary-xcframework/releases/download/0.1.2/sndfile.xcframework.zip",
+			checksum: "9527b17b78a5fd9f686c4a30b7a51e36db3c1d750e50a76876ccc65ef794e296"),
 	]
 )
